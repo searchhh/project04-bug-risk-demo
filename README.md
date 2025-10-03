@@ -3,7 +3,7 @@
 conda env create -f environment.yml
 
 
-推荐永远在项目根（...\create-Fake-data>）跑：
+推荐永远在项目根（...\你的文件>）跑：
 
 conda activate jlr_hackathon
 # 1) 生成合成数据
